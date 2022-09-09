@@ -104,8 +104,8 @@ longitude) and/or vertical position (height)
 
 === ellipsoid
 
-mathematical surface that may be used as a {{datum}} in defining a {{geographic
-coordinate system}}
+mathematical surface that may be used as a {{datum}} in defining a
+{{geographic coordinate system}}
 
 NOTE: An ellipsoid is usually established by fitting the parameters of the
 ellipsoid to measurements of a gravitational equipotential surface ({{geoid}})
@@ -128,6 +128,7 @@ specifying the rotations about each of the three axes respectively to bring one
 in alignment with the other
 
 === geographic coordinates
+admitted:[geographic coordinate system]
 
 3-dimensional reference system based on a reference {{ellipsoid}}
 
@@ -146,7 +147,7 @@ approximation of surface of equal gravitational force, usually attempting to
 match average sea-level
 
 NOTE: A geoid is defined by measurements and is always inexact. The {{ellipsoid}}
-used in {{geographic coordinates,geographic coordinate systems}} is
+used in {{geographic coordinate system,geographic coordinate systems}} is
 usually a mathematical approximation to a specific geoid.
 
 === gyro
